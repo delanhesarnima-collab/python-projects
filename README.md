@@ -1,0 +1,7 @@
+first_name ="alex"
+age=35 
+is_male="true"
+
+print(first_name)
+print(age)
+print(is_male)
