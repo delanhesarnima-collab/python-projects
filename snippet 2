@@ -1,0 +1,3 @@
+shopping_list = ("milk", "Bread", "butter")
+
+print(len(shopping_list))
