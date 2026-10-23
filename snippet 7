@@ -1,0 +1,4 @@
+colors = ["green", "Blue", "BLack,", "white", "Red", "BLue"]
+colors.pop()
+
+print(colors)
