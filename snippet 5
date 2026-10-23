@@ -1,0 +1,10 @@
+queb_list = [
+[2, 3, 3],
+[4, 8, 2],
+[3, 5, 4]
+]
+for queb in queb_list:
+result = 1
+for dimension in queb:
+result = result * dimension
+print(result)
