@@ -1,0 +1,10 @@
+week_days = {
+100: "saturday",
+101: "sunday",
+102: "monday",
+103: "tuesday",
+104: "wednesday",
+105: "thursday",
+106: "friday",
+}
+print(week_days.get(300, "not a valid key!"))
